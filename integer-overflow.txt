@@ -1,3 +1,6 @@
+inf
+-inf
+nan
 -1
 -0
 -0xff
